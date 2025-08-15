@@ -6,6 +6,8 @@
 
 🧠 Explore Python features essential for Artificial Intelligence.
 
-💻 Strengthen coding skills with hands-on exercises and mini-projects.
+💻 Strengthen coding skills with hands-on exercises.
+
+💻 Strengthen coding skills with mini projects.
 
 📈 Level up from basics to AI-focused Python mastery.
