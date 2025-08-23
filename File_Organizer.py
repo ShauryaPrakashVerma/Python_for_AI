@@ -1,3 +1,6 @@
+#This Program organizes files according to their extensions.
+
+
 import os
 import shutil 
 
@@ -12,4 +15,5 @@ for file in files:
         shutil.move(path+"/"+file, path+"/"+extentions+"/"+file)
     else:
         os.makedirs(path+"/"+extentions)
+
         shutil.move(path+"/"+file, path+"/"+extentions+"/"+file)
